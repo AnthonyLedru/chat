@@ -1,2 +1,2 @@
-# chatFX
+# ChatFX
 Mini chat en Java
