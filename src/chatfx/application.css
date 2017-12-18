@@ -1,0 +1,6 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.text-area   {
+    -fx-text-fill: #1e88e5;
+    -fx-font-size: 12px;
+}
