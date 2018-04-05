@@ -54,11 +54,11 @@ public class TextClient implements Observer {
             	
             case USER_RENAMED:
             	System.out.println(event.data[0] + " a changer d'alias pour " +event.data[1] + "\n");
-        	break;
+            	break;
         	
             case PRIVATE:
             	System.out.println("*** Message privé de " + event.data[0] + " : \n" + event.data[1] + "\n" + "*** Fin du message"+"\n");
-        	break;
+            	break;
         }
     }
     

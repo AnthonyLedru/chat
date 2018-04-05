@@ -61,7 +61,7 @@ public class Server {
      */
     public static void main(String[] args) {
         try {
-            Server server = new Server(3333);
+            Server server = new Server(5050);
             server.listen();
         }
         catch (IOException e) {

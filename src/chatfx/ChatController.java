@@ -30,7 +30,6 @@ public class ChatController implements Observer{
 
 	private List<String> L = new ArrayList<String>();
 	
-	@Override
 	public void update(Observable o, Object arg) {
 		
 		Platform.runLater(new Runnable() {
