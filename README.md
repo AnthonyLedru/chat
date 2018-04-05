@@ -1,4 +1,4 @@
-# ChatFX
+# Chat
 
 A simple Chat in java<br>
 
